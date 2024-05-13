@@ -44,6 +44,7 @@ NOTE=> final,const,Static are not data types they are resrved keywords in dart m
 //   print("this is an example of Var $differentValues");
 // }
 
+/*
 void main(List<String> args) {
   //var automatically identifies that which type of data store in a variable
   var storename = "usman";
@@ -51,3 +52,4 @@ void main(List<String> args) {
   // differentValues = 200; // this line will give,s an error beacuse forst we store String then it will change for a String values not integer or other
   print("this is an example of Var $storename");
 }
+*/

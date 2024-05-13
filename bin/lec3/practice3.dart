@@ -6,6 +6,8 @@
 //2 Multi line comments
 //3 Documentation Comments
 
+
+/*
 void main(List<String> args) {
   //Single line comments are represented by these two slash as shown (//)
   print("Single Line Comments Looks like   //");
@@ -16,3 +18,5 @@ void main(List<String> args) {
 //Documentation Comments are represented by triple slash  (///)
   print("Triple Slash ///");
 }
+
+*/

@@ -1,3 +1,6 @@
+//string functions 
+
+/*
 void main(List<String> args) {
   String name1 = "Usman malik";
   String name2 = "jawad";
@@ -39,3 +42,5 @@ void main(List<String> args) {
 
   print(name1.padLeft(2));
 }
+
+*/

@@ -2,6 +2,8 @@
 
 //FUNCTIONS OF INTEGERS IN DART static data type
 
+
+/*
 void main(List<String> args) {
   int number1 = 200;
   int number2 = 9;
@@ -73,3 +75,5 @@ void main(List<String> args) {
 
 
 }
+
+*/
