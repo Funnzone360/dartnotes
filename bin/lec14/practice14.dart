@@ -26,6 +26,7 @@ void main(List<String> args) {
 
 */
 
+/*
 void main(List<String> args) {
   Set mixvalues = {"malik", "usman", "ali", 2.345, 1, 2, 3, true};
   Set mixvalues2 = {"malik", "usman", "ali", 3, true};
@@ -38,3 +39,4 @@ void main(List<String> args) {
   mixvalues.containsAll(mixvalues2);
   print(mixvalues);
 }
+*/
