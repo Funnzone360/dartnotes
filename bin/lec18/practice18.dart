@@ -1,5 +1,5 @@
 //enamuration is used to give names to constant  for example 2 we can give nmae two
-
+/*
 enum Day {
   monday,
   tuesday,
@@ -37,3 +37,4 @@ void main() {
       break;
   }
 }
+*/

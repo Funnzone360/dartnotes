@@ -1,5 +1,7 @@
 //input out put in dart
 
+
+/*
 import 'dart:io';
 
 void main() {
@@ -7,3 +9,6 @@ void main() {
   String name = stdin.readLineSync()!;
   print("Hello $name");
 }
+
+
+*/
